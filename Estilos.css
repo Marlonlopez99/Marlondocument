@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #00bfff;
+    font-family: verdana;
+    color: #fff;
+    font-size: 30px;
+    padding: 20px;
+}
+
+#Header {
+    background: red;
+    border-radius: 10px;
+}
+
+#Main {
+    background: orange;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 450px;
+}
+
+#Footer {
+    background: blue;
+    margin-top: 10px;
+    border-radius: 10px;
+}
